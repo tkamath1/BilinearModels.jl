@@ -18,7 +18,7 @@ Please cite the following publication if you use this package in your research:
 
 - Start Julia and run the following command at the `julia>` prompt:
 ```julia
-using Pkg; Pkg.add(url="https://github.com/tkamath1/BilinearModels.jl")
+using Pkg; Pkg.add(url="https://github.com/jwmi/BilinearModels.jl")
 ```
 
 
